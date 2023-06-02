@@ -1,6 +1,6 @@
 # Mito
 
-#Author
+# Author
 Josiah Liebert
 
 # Functions
